@@ -1,7 +1,5 @@
 ### Hi there 👋,I'm Qimiao.Chen.
 
-- 🌱 I’m currently learning Everything I like or need.
-- 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: chenqimiao1994@126.com
 - 😄 Read more about my blog: [here](https://www.cnblogs.com/think-in-java/)
 
