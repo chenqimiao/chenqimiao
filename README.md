@@ -5,8 +5,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenqimiao&layout=compact&theme=tokyonight)
-
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=chenqimiao&theme=dracula)
 
 ### My Skill Set
